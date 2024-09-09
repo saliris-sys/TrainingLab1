@@ -3,7 +3,7 @@ job('Python-Build-Job') {
 
     // Source Code Management
     scm {
-        git('https://github.com/TrainingLab1/.git')
+        git('https://github.com/saliris-sys/TrainingLab1.git')
     }
 
     // Build Triggers
