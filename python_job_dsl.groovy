@@ -21,3 +21,4 @@ job('Python-Build-Job') {
     publishers {
         archiveArtifacts('**/target/*.zip')
     }
+}
