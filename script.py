@@ -1,2 +1,2 @@
 # script.py
-print("Hello from Jenkins! This is a Python script.")
+print("Hello from Jenkins! This is a Python script. Testing only")
